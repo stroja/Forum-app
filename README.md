@@ -2,8 +2,6 @@
 
 For this project I decided to use Angular 13 and Node.js with MySql database.
 
-Due to my first 
-
 For Database creation use following: 
 
 ```
